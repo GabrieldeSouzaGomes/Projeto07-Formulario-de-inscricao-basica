@@ -1,0 +1,8 @@
+/*1° Estilos Gerais*/
+body {
+    font-family: 'Helvetica Neue' Arial, sans-sans-serif;
+
+    background-color: #6a89cc; /*Um fundo azulado para a página*/
+    
+    display: flex;
+}
